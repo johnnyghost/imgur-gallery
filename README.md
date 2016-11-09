@@ -10,6 +10,7 @@ Go to the `client` folder, and:
 - Redux
 - ES6
 - Webpack
+- Express
 
 # Final result
 The final result can be found on https://medialab-client.herokuapp.com/
