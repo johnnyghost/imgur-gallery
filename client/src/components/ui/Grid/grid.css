@@ -1,0 +1,21 @@
+.wrapper {
+  text-align: center;
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.loadMore {
+  margin: 10px;
+  width: 99%;
+  background: #f42156;
+  border: none;
+  height: 40px;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  font-size: 1rem;
+  cursor: pointer;
+}

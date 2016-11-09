@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/config.js"],"names":["DEFAULT_PORT"],"mappings":";;;;;AAAA;;;;AAIA,IAAMA,eAAe,IAArB;;QAGEA,Y,GAAAA,Y","file":"config.js","sourcesContent":["/**\n * Default port.\n * @type {Number}\n */\nconst DEFAULT_PORT = 3001;\n\nexport {\n  DEFAULT_PORT\n}\n"]}

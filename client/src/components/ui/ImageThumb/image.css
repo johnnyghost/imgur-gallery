@@ -1,0 +1,32 @@
+.wrapper {
+  background-color: #fff;
+  margin: 0.5rem;
+  width: calc((100% / 4) - 1.25rem);
+  border: 1px solid #efefef;
+  border-radius: 3px;
+}
+
+.description {
+  padding: 0.5rem;
+  line-height: 1.2em;
+  color: #7e8890;
+  font-weight: 500;
+  font-size: .875em;
+  font-style: italic;
+  width: 250px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+@media (max-width: 1360px)  {
+  .wrapper {
+    width: calc(50% - 1.25rem);
+  }
+}
+
+@media (max-width: 600px)  {
+  .wrapper {
+    width: calc(100% - 1.25rem);
+  }
+}

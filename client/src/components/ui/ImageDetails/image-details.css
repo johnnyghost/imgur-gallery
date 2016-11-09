@@ -1,0 +1,54 @@
+.wrapper {
+  width: 60%;
+  background-color: #fff;
+  border: 1px solid #efefef;
+  border-radius: 3px;
+  margin: 0 auto;
+  max-width: 600px;
+}
+
+.header {
+  height: 64px;
+  padding: 14px 20px;
+  color: #262626;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+}
+
+.description {
+  padding: 20px;
+  font-size: 13px;
+  color: #777;
+}
+
+.status {
+  padding: 14px 20px;
+  color: #777;
+  font-size: 13px;
+;}
+
+.like {
+  float: left;
+}
+
+.like i {
+  color: #2EC9D2;
+}
+
+.dislike {
+  float: left;
+  padding: 0 15px;
+}
+
+.dislike i {
+  color: #f42156;
+}
+
+.score {
+  width: 100%;
+}
+
+.score i{
+  color: #262626;
+}

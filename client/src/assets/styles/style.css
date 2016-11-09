@@ -1,0 +1,30 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  background: #fafafa;
+}
+
+img,
+a {
+  width: 100%
+}
+
+a:-webkit-any-link {
+  text-decoration: none;
+}
+
+select {
+  height: 30px;
+  margin: 10px 10px 0 0;
+  width: 100px;
+  border: 1px solid #efefef;
+  background: white;
+}
+
+label,
+select {
+  display: block;
+  margin: 2px 0;
+  font-size: 9px;
+  font-weight: bold;
+  padding: 0 10px 0 0;
+}

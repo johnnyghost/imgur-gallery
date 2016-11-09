@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/routes/index.js"],"names":["createRoutes","app"],"mappings":";;;;;;;AAAA;;AAEO,IAAMA,sCAAe,SAAfA,YAAe,CAACC,GAAD,EAAS;AACnC,oCAAoBA,GAApB;AACD,CAFM","file":"index.js","sourcesContent":["import { createGalleryRoutes } from './gallery';\n\nexport const createRoutes = (app) => {\n  createGalleryRoutes(app)\n}\n"]}
