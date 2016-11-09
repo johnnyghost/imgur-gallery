@@ -1,1 +1,5 @@
-see README on front https://bitbucket.org/daiki_/joao-front
+# Install dependencies
+`npm install`
+
+# Run in dev
+`npm run dev`
